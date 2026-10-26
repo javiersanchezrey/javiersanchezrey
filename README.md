@@ -53,6 +53,5 @@ Take a look at my work and the projects I'm building.
 ---
 
 <p align="center">
-  <br><br>
   <strong>Let's build something great. 🚀</strong>
 </p>
