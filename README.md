@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner-github.jpg" width="100%" alt="Javier Sánchez — Web Developer in Training">
+<img src="banner-github.jpg" width="100%" alt="Javier Sánchez — Web Developer in Training">
 
 </div>
 
