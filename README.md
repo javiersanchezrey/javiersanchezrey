@@ -53,7 +53,6 @@ Take a look at my work and the projects I'm building.
 ---
 
 <p align="center">
-  <em>"No Risk, no story."</em>
   <br><br>
   <strong>Let's build something great. 🚀</strong>
 </p>
